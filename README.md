@@ -40,7 +40,7 @@ Mi objetivo es conectar el análisis técnico con decisiones estratégicas basad
 
 ## 📫 Conectemos
 - 💼 [LinkedIn](www.linkedin.com/in/santiago-arias-vargas)
-- 📧 **santiagoarias.data@gemail.com**
+- 📧 **santiagoarias.data@gmail.com** 
 - 📍 Colombia
 
 ---
